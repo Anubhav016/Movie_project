@@ -10,7 +10,7 @@ const Footer = () => {
             <ContentWrapper>
                 
                 <div className="infoText">
-                    This website is created by Anubhav Pandey.
+                    Copywright Reserved.
                 </div>
                 
             </ContentWrapper>
